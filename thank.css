@@ -15,7 +15,7 @@
 }
 
 .popup {
-    width: 430px;
+    width: 450px;
     background: white;
     border-radius: 6px;
     position: absolute;
@@ -48,7 +48,7 @@
 .popup button {
     width: 40%;
     margin-top: 50px;
-    padding: 10px 0;
+    padding: 8px 0;
     background: #6fd649;
     color: #000000;
     border: 0;
